@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#noteInput{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#noteList{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.noteItem{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    background-color: #706b6b;
+}
+
+.nav-title{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
